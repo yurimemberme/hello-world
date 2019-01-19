@@ -1,3 +1,2 @@
 # Personal
-YB test repository
-Test comments
+YB personal stuff
